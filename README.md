@@ -2,7 +2,7 @@
 Project Summary
 This project aims to build a machine learning model to predict the fraud detection.
 
-Summary
+Summary:-
 
 Problem: Classifying credit card transactions as fraudulent or non-fraudulent.
 
